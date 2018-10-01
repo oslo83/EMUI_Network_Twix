@@ -1,3 +1,5 @@
 # This file will be read by resetprop
 # Example: Change dpi
 # ro.sf.lcd_density=320
+ro.config.hw_hide_lte=false
+ro.config.support_ca=true
